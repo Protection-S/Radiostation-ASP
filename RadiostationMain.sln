@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadiostationMain.Server", "RadiostationMain.Server\RadiostationMain.Server.csproj", "{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "radiostationmain.client", "radiostationmain.client\radiostationmain.client.esproj", "{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938B6302-74C8-4435-A25F-7C354366ABAF}
+	EndGlobalSection
+EndGlobal

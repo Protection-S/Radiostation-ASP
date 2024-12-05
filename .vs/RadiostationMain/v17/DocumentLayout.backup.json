@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|solutionrelative:radiostationmain.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.client\\src\\components\\audioplayer.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|solutionrelative:radiostationmain.client\\src\\components\\audioplayer.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.client\\src\\components\\leftpanel.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|solutionrelative:radiostationmain.client\\src\\components\\leftpanel.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.client\\src\\components\\addtrackmodal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|solutionrelative:radiostationmain.client\\src\\components\\addtrackmodal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.server\\controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|solutionrelative:radiostationmain.server\\controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.server\\controllers\\stationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|solutionrelative:radiostationmain.server\\controllers\\stationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|solutionrelative:radiostationmain.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.server\\infrastructure\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|solutionrelative:radiostationmain.server\\infrastructure\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.server\\infrastructure\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|solutionrelative:radiostationmain.server\\infrastructure\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.server\\infrastructure\\models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|solutionrelative:radiostationmain.server\\infrastructure\\models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.server\\infrastructure\\models\\stationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA97A13-DD85-4E0C-A4BE-F87AB8BBA708}|RadiostationMain.Server\\RadiostationMain.Server.csproj|solutionrelative:radiostationmain.server\\infrastructure\\models\\stationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|solutionrelative:radiostationmain.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|solutionrelative:radiostationmain.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.client\\src\\components\\mainpanel.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|solutionrelative:radiostationmain.client\\src\\components\\mainpanel.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.client\\src\\components\\rightpanel.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|solutionrelative:radiostationmain.client\\src\\components\\rightpanel.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.client\\src\\assets\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|solutionrelative:radiostationmain.client\\src\\assets\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|solutionrelative:radiostationmain.client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|c:\\users\\lalka\\source\\repos\\radiostationmain\\radiostationmain.client\\src\\components\\addtrackmodal.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6C72E6A0-E665-4D36-9DA5-FCB2A8163525}|radiostationmain.client\\radiostationmain.client.esproj|solutionrelative:radiostationmain.client\\src\\components\\addtrackmodal.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StationsController.cs",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Controllers\\StationsController.cs",
+              "RelativeDocumentMoniker": "RadiostationMain.Server\\Controllers\\StationsController.cs",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Controllers\\StationsController.cs",
+              "RelativeToolTip": "RadiostationMain.Server\\Controllers\\StationsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:25:59.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Station.cs",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Infrastructure\\Models\\Station.cs",
+              "RelativeDocumentMoniker": "RadiostationMain.Server\\Infrastructure\\Models\\Station.cs",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Infrastructure\\Models\\Station.cs",
+              "RelativeToolTip": "RadiostationMain.Server\\Infrastructure\\Models\\Station.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:29:30.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Program.cs",
+              "RelativeDocumentMoniker": "RadiostationMain.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Program.cs",
+              "RelativeToolTip": "RadiostationMain.Server\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:59:45.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TracksController.cs",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Controllers\\TracksController.cs",
+              "RelativeDocumentMoniker": "RadiostationMain.Server\\Controllers\\TracksController.cs",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Controllers\\TracksController.cs",
+              "RelativeToolTip": "RadiostationMain.Server\\Controllers\\TracksController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:00:39.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\App.vue",
+              "RelativeDocumentMoniker": "radiostationmain.client\\src\\App.vue",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\App.vue",
+              "RelativeToolTip": "radiostationmain.client\\src\\App.vue",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-11-21T12:05:10.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddTrackModal.vue",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\AddTrackModal.vue",
+              "RelativeDocumentMoniker": "radiostationmain.client\\src\\components\\AddTrackModal.vue",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\AddTrackModal.vue",
+              "RelativeToolTip": "radiostationmain.client\\src\\components\\AddTrackModal.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-11-22T01:29:15.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeftPanel.vue",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\LeftPanel.vue",
+              "RelativeDocumentMoniker": "radiostationmain.client\\src\\components\\LeftPanel.vue",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\LeftPanel.vue",
+              "RelativeToolTip": "radiostationmain.client\\src\\components\\LeftPanel.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-11-21T12:09:20.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioPlayer.vue",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\AudioPlayer.vue",
+              "RelativeDocumentMoniker": "radiostationmain.client\\src\\components\\AudioPlayer.vue",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\AudioPlayer.vue",
+              "RelativeToolTip": "radiostationmain.client\\src\\components\\AudioPlayer.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-11-22T05:49:39.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Infrastructure\\Database\\DbContext.cs",
+              "RelativeDocumentMoniker": "RadiostationMain.Server\\Infrastructure\\Database\\DbContext.cs",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Infrastructure\\Database\\DbContext.cs",
+              "RelativeToolTip": "RadiostationMain.Server\\Infrastructure\\Database\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:57:00.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Track.cs",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Infrastructure\\Models\\Track.cs",
+              "RelativeDocumentMoniker": "RadiostationMain.Server\\Infrastructure\\Models\\Track.cs",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Infrastructure\\Models\\Track.cs",
+              "RelativeToolTip": "RadiostationMain.Server\\Infrastructure\\Models\\Track.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:28:51.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\vite.config.js",
+              "RelativeDocumentMoniker": "radiostationmain.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\vite.config.js",
+              "RelativeToolTip": "radiostationmain.client\\vite.config.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T16:58:34.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StationCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Infrastructure\\Models\\StationCreateDTO.cs",
+              "RelativeDocumentMoniker": "RadiostationMain.Server\\Infrastructure\\Models\\StationCreateDTO.cs",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\Infrastructure\\Models\\StationCreateDTO.cs",
+              "RelativeToolTip": "RadiostationMain.Server\\Infrastructure\\Models\\StationCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:12:09.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\tailwind.config.js",
+              "RelativeDocumentMoniker": "radiostationmain.client\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\tailwind.config.js",
+              "RelativeToolTip": "radiostationmain.client\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T12:08:37.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPanel.vue",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\MainPanel.vue",
+              "RelativeDocumentMoniker": "radiostationmain.client\\src\\components\\MainPanel.vue",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\MainPanel.vue",
+              "RelativeToolTip": "radiostationmain.client\\src\\components\\MainPanel.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-11-21T12:09:37.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RightPanel.vue",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\RightPanel.vue",
+              "RelativeDocumentMoniker": "radiostationmain.client\\src\\components\\RightPanel.vue",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\RightPanel.vue",
+              "RelativeToolTip": "radiostationmain.client\\src\\components\\RightPanel.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-11-22T01:28:52.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\main.js",
+              "RelativeDocumentMoniker": "radiostationmain.client\\src\\main.js",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\main.js",
+              "RelativeToolTip": "radiostationmain.client\\src\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T12:11:10.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tailwind.css",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\assets\\tailwind.css",
+              "RelativeDocumentMoniker": "radiostationmain.client\\src\\assets\\tailwind.css",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\assets\\tailwind.css",
+              "RelativeToolTip": "radiostationmain.client\\src\\assets\\tailwind.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-22T05:26:20.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddTrackModal.vue",
+              "DocumentMoniker": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\AddTrackModal.vue",
+              "RelativeDocumentMoniker": "radiostationmain.client\\src\\components\\AddTrackModal.vue",
+              "ToolTip": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\radiostationmain.client\\src\\components\\AddTrackModal.vue",
+              "RelativeToolTip": "radiostationmain.client\\src\\components\\AddTrackModal.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-11-22T01:29:12.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
