@@ -6181,11 +6181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\RadiostationMain.Server.csproj",
+      "projectUniqueName": "C:\\Users\\lalka\\Source\\Repos\\Radiostation-ASP\\RadiostationMain.Server\\RadiostationMain.Server.csproj",
       "projectName": "RadiostationMain.Server",
-      "projectPath": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\RadiostationMain.Server.csproj",
+      "projectPath": "C:\\Users\\lalka\\Source\\Repos\\Radiostation-ASP\\RadiostationMain.Server\\RadiostationMain.Server.csproj",
       "packagesPath": "C:\\Users\\lalka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\obj\\",
+      "outputPath": "C:\\Users\\lalka\\Source\\Repos\\Radiostation-ASP\\RadiostationMain.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

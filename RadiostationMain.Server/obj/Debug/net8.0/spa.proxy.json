@@ -2,7 +2,7 @@
 "SpaProxyServer": {
 "ServerUrl": "https://localhost:5173",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\lalka\\source\\repos\\RadiostationMain\\RadiostationMain.Server\\..\\radiostationmain.client",
+"WorkingDirectory": "C:\\Users\\lalka\\Source\\Repos\\Radiostation-ASP\\RadiostationMain.Server\\..\\radiostationmain.client",
 "MaxTimeoutInSeconds": "120"
 }
 }

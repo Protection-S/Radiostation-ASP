@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RadiostationMain.Server",
+    "\\RadiostationMain.Server\\Infrastructure",
+    "\\RadiostationMain.Server\\Infrastructure\\Models"
+  ],
+  "SelectedNode": "\\RadiostationMain.Server\\Infrastructure\\Models\\Station.cs",
+  "PreviewInSolutionExplorer": false
+}
